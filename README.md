@@ -1,3 +1,5 @@
+# 项目来自于https://github.com/woniu336/vps-date，我只是修改自用
+
 ### VPS 到期监控助手 🚀
 
 一个优雅的 VPS 到期日期监控工具，再也不用担心 VPS 续费超期了！通过 Telegram 机器人推送到期提醒，轻松管理多台服务器。
