@@ -6,9 +6,7 @@
 
 之前发过帖子，功能上还不太行，这次重新打造
 
-演示：https://woniu336.github.io/vps-date/
-
-项目： https://github.com/woniu336/vps-date
+演示：https://chushu1945.github.io/vps-date/
 
 ## ✨ 特色功能
 
@@ -18,7 +16,6 @@
 - 🔔 灵活的提醒时间配置，按固定日期还是每月循环
 - 💻 支持 GitHub Actions 自动运行
 - 🔔多币种汇率更新，免费的API，不要频繁使用
-
 
 
 
